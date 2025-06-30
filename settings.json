@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "admin_ids": [
+        534890702
+    ],
+    "channel_id": "-1002333848332",
+    "channel_url": "https://t.me/+9ZnxPhBEsGE5ZmVi",
+    "required_channels": [
+        {
+            "id": "@Tiestrow_bot",
+            "name": "РћСЃРЅРѕРІРЅРѕР№ РєР°РЅР°Р»",
+            "url": "https://t.me/Tiestrow_bot"
+        }
+    ]
+}
